@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3da5d3-dd8d-4762-873a-e9f3f51efb71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Descuento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/DescuentoCombinado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/DescuentoFijo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/DescuentoPorcentual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/PruebaEjercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/Documento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/Exportador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/ExportadorExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/ExportadorPDF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/ExportadorWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/PruebaEjercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/CanalEnvio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/EnvioCorreo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/EnvioPush.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/EnvioSMS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/Mensajero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/SistemaMensajes.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
